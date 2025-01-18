@@ -1,0 +1,9 @@
+#butao{
+    background-color: aqua;
+    width: 150px;
+    border-radius: 30px;
+}
+#butao:hover{
+    background-color: blue;
+    color: white;
+}
